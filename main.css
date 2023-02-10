@@ -1,0 +1,25 @@
+body{
+	font-family:sans-serif;
+	background:linear-gradient(90deg,#6da617,#8977d1);
+}
+#headline{
+	color:#ffffff;
+	font-size:32px;
+}
+#img1{
+	width:300px;
+	height:auto;
+	border:10px solid #ffffff;
+}
+#desc{
+	margin-bottom:5px;
+}
+a{
+	text-decoration:none;
+	color:#ffffff;
+}
+footer{
+	color:#ffffff;
+	position:fixed;
+	bottom:0px;
+}
